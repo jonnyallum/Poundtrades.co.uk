@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+.hero {
+    background: url('https://source.unsplash.com/1600x600/?construction,building') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+.listing-card {
+    border-left: 5px solid;
+    padding: 15px;
+    border-radius: 5px;
+}
+.public { border-color: blue; }
+.tradesman { border-color: red; }
+.local-business { border-color: green; }
+.advertise {
+    background: #fff3cd;
+    padding: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+footer {
+    background: #212529;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
